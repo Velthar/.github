@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/ZPqXzKb.png" alt="logo" style="width:25%">
 
-# Eros-MC
+# Velthar
 
 <div align="center" >
   <img align="center" src="https://img.shields.io/badge/minecraft-1.7.10-blue">
@@ -12,6 +12,6 @@
 
 <br>
 
-Venusia est un serveur PVP-Faction moddé en 1.7.10
+Velthar est un serveur PVP-Faction moddé en 1.7.10
 <br><br>
 Ce projet a pour objectif de construire un serveur unique avec une économie basée sur le farm
