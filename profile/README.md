@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.imgur.com/ZPqXzKb.png" alt="logo" style="width:25%">
+<img src="https://i.imgur.com/oPi4P7a.png" alt="logo" style="width:25%">
 
 # Velthar
 
